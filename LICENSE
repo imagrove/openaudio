@@ -1,0 +1,20 @@
+Imagrove OpenAudio — Licensing
+==============================
+
+本仓库包含不同许可的内容，按目录区分：
+
+- firmware/  →  GNU General Public License v3.0 (GPLv3)
+- hardware/  →  CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2)
+- server/ 及根级文件（README、本文件等）  →  默认 GPLv3（如需另行指定见目录说明）
+
+完整许可证文本：
+- GPLv3:          https://www.gnu.org/licenses/gpl-3.0.txt
+- CERN-OHL-S v2:  https://ohwr.org/cern_ohl_s_v2.txt
+
+分发与合规说明
+--------------
+本产品固件包含 GPLv3 许可的软件（含 Snapcast 客户端）。销售硬件时，须向每一位
+客户提供"完整的对应源代码"（Corresponding Source），并随附 GPLv3 许可证副本，
+或提供至少三年有效的书面下载要约。详见文档站 legal/licenses。
+
+Snapcast 是独立开源项目，与本项目无官方关联。
