@@ -2,7 +2,7 @@
 
 > 基于 ESP32 + Wi-Fi 的开源多房间音频系统。用 Sonos 1/5 的价格，做一套不被任何厂商锁定的全屋声音。
 
-**官网** https://openaudio.imagrove.com ｜ **文档** https://openaudio.imagrove.com/docs ｜ **联系** hello@openaudio.imagrove.com
+**官网** https://openaudio.imagrove.com ｜ **文档** https://openaudio.imagrove.com/docs ｜ **联系** openaudio@imagrove.com
 
 ## 能力
 
